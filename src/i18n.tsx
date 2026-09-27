@@ -16,7 +16,7 @@ const ru = {
   navMusic: "Музыка",
   navQuiz: "Викторина",
   monogram: "Д&В",
-  homeEyebrow: "Приглашение",
+  homeEyebrow: "Люблю",
   homeHero1: "Наша история",
   homeHero2: "Один год вместе",
   homeNames: "Наша история",
@@ -30,7 +30,7 @@ const ru = {
   homeLoveText:
     "Переходь на следующую страницу: там небольшая история, а затем даже интерактивчик небольшой.",
   homeNavStrip: [
-    { id: "invite", label: "Приглашение" },
+    { id: "invite", label: "Люблю" },
     { id: "numbers", label: "Цифры" },
     { id: "story", label: "Love Story" },
     { id: "quiz", label: "Викторина" },
@@ -179,7 +179,7 @@ const en: Dict = {
   navMusic: "Music",
   navQuiz: "Quiz",
   monogram: "D&V",
-  homeEyebrow: "Invitation",
+  homeEyebrow: "I love you",
   homeHero1: "Our story",
   homeHero2: "One year together",
   homeNames: "Our story",
@@ -193,7 +193,7 @@ const en: Dict = {
   homeLoveText:
     "Move on to the next page: there is a little story there, and then even a small interactive extra.",
   homeNavStrip: [
-    { id: "invite", label: "Invitation" },
+    { id: "invite", label: "I love you" },
     { id: "numbers", label: "Numbers" },
     { id: "story", label: "Love Story" },
     { id: "quiz", label: "Quiz" },
